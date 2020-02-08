@@ -1,11 +1,14 @@
 _repo: The-64-Square-Madhouse_61213
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Sixty-Four-Square Madhouse
 contributor:
   illustrator:
     agent_name: Burns
     gutenberg_agent_id: '48890'
     url: http://www.gutenberg.org/2009/agents/48890
+covers:
+- cover_type: archival
+  image_path: 61213-h/images/cover.jpg
 creator:
   author:
     agent_name: Leiber, Fritz
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25421
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61213#The-64-Square-Madhouse
 gutenberg_issued: '2020-01-21'
 gutenberg_type: Text
 identifiers:
